@@ -1,0 +1,13 @@
+h1{
+    color: brown;
+    text-align: center;
+    text-decoration: black;
+    border: 6px solid forestgreen;
+    text-shadow: 50px 30px;
+    background-color: aqua;
+    box-shadow: 30px;
+    p{
+        background-color: blueviolet;
+    }
+
+}
